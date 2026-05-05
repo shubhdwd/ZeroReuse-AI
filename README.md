@@ -71,7 +71,7 @@ ZeroReuse AI replaces trust with **enforceable system design**.
 
 ---
 
-## ⚙️ Environment Variables  
+##  Environment Variables  
 
 To run this project locally, create a `.env` file in the root directory and add the following:
 
